@@ -8,8 +8,8 @@ An interactive Excel dashboard designed to visualize and analyze coffee shop sal
 
 This Excel-based dashboard provides:
 
-- Daily and monthly sales trends
-- Product-wise and category-wise sales breakdown
+- Hourly and weekly sales trends
+- Category-wise sales breakdown
 - Insights into top-selling items
 - Visual indicators using KPIs, charts, and slicers
 
