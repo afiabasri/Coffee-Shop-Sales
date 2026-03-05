@@ -38,7 +38,7 @@ The dashboard enables data-driven decisions to optimize product offerings, manag
 ---
 ## 🖼️ Dashboard Snapshots
 
-![Sales Overview](https://github.com/afiabasri/Coffee-Shop-Sales/blob/main/image.png)
+![Sales Overview](https://github.com/afiabasri/Coffee-Shop-Sales/blob/main/coffee%20sale%20dashboard.png)
 
 ---
 
